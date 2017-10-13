@@ -1,6 +1,6 @@
 {
   "name": "mk-app-mea-unit-card",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "计量单位卡片",
   "main": "index.js",
   "directories": {

@@ -3,7 +3,7 @@ import * as data from './data'
 
 export default {
 	name: "mk-app-mea-unit-card",
-	version: "1.0.0",
+	version: "1.0.1",
 	description: "mk-app-mea-unit-card",
 	meta: data.getMeta(),
 	components: [],
